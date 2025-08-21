@@ -4,7 +4,7 @@ A powerful and extensible chatbot flow builder built with React and React Flow. 
 
 ## 🚀 Live Demo
 
-**[Live Application](https://your-deployment-url.vercel.app)** *(Deploy and update this link)*
+**[Live Application](https://bitespeed-seven.vercel.app)** *(Deploy and update this link)*
 
 ## ✨ Features
 
@@ -166,18 +166,9 @@ The architecture is designed to be extensible. To add a new node type:
    netlify deploy --prod --dir=build
    ```
 
-### Deploy to Heroku
-
-1. **Create a buildpack** or use a static file server
-2. **Add server.js** for serving the built React app
-3. **Deploy using Heroku Git or GitHub integration**
-
 ### Environment Variables
 
-No environment variables are required for basic functionality. For advanced features, you might want to add:
-
-- `REACT_APP_API_URL`: Backend API endpoint
-- `REACT_APP_ANALYTICS_ID`: Analytics tracking ID
+No environment variables are required for basic functionality.
 
 ## 🧪 Testing
 
@@ -195,13 +186,6 @@ npm test
 - [ ] Handle connection restrictions
 - [ ] Responsive design on mobile
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ### Coding Standards
 
@@ -241,10 +225,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Developer**: Your Name
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Developer**: Apoorv Jain
+- **Email**: apoorvjain162@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/apoorv-jain-4487a0145/)
 
 ---
 
