@@ -227,7 +227,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Developer**: Apoorv Jain
 - **Email**: apoorvjain162@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/apoorv-jain-4487a0145/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/apoorv-jain-4487a0145/)
 
 ---
 
